@@ -1,2 +1,2 @@
-# client-info-shopify
+# client info shopify
 Shopify dev information
